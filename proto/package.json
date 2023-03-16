@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "@bufbuild/protoc-gen-connect-es": "latest",
+    "@bufbuild/protoc-gen-es": "latest"
+  }
+}
